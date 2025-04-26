@@ -29,3 +29,5 @@ This app aims to simplify the shopping process with its intuitive user interface
 ## Technologies Used
 
 * **Frontend:** (Specify the frontend technologies used,
+* ![image](https://github.com/user-attachments/assets/381071a9-fd2c-48ac-9110-706f0675d706)
+
